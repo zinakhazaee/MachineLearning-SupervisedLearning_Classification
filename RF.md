@@ -24,3 +24,7 @@ The value of some features (BloodPressure, Glucose, SkinThickness, Insulin) is z
 
 
 ![Insulin](https://github.com/zinakhazaee/MachineLearning-SupervisedLearning_Classification/assets/51121676/440dfdcf-93b4-41d6-875e-384003a098bd)
+
+
+I tried to clean the data. I replaced mean with the wrong data, but when I tested both cleaned and uncleaned data in the model, I was surprised.
+The result did not change. 
